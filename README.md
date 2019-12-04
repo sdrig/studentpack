@@ -21,3 +21,4 @@ This is a list of services to find in a page all services related with students.
     $30 in AWS credits at non-member institutions
   - Access to AWS Technical Essentials Training Course (a \$600 value)
     Free access to labs
+- [Github](https://education.github.com/pack#offers)
